@@ -1,17 +1,1 @@
-
-O poeta é um fingidor.
-Finge tão completamente
-Que chega a fingir que é dor
-A dor que deveras sente.
-
-E os que lêem o que escreve,
-Na dor lida sentem bem,
-Não as duas que ele teve,
-Mas só a que eles não têm.
-
-E assim nas calhas da roda
-Gira, a entreter a razão,
-Esse comboio de corda
-Que se chama o coração.
-
-Fernando Pessoa
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
